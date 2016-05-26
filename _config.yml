@@ -1,0 +1,14 @@
+layout_spectrum: 0.05999549850821495
+typography_spectrum: 0.5489957823883742
+color:
+  brandStrength: 0.13876148778945208
+  lightness: 0.7805245635099709
+  saturation: 0.7701062893029302
+  rhythmicContrast: 0.04246066580526531
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: whothefarewe
